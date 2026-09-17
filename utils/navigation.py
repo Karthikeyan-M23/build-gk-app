@@ -69,4 +69,4 @@ def render_sidebar():
 
         st.divider()
 
-        st.caption("Powered by OpenAI")
+        st.caption("Powered by Karthikeyan M")

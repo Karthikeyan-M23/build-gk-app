@@ -25,6 +25,7 @@ Requirements:
 5. Provide a short explanation for the correct answer.
 6. Keep questions suitable for a general knowledge quiz.
 
+
 Return ONLY valid JSON.
 
 Use exactly this structure:

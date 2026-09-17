@@ -133,7 +133,7 @@ if st.session_state.quiz is None:
                 "Literature",
                 "Economics",
                 "India GK",
-                "World GK"
+                "Java"
             ]
         )
 
